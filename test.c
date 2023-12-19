@@ -45,6 +45,7 @@ int main()
 
     printf("理科の平均は%d,英語の平均は%d\n",avg1,avg2);
     printf("理科の標準偏差は%d,英語の平均は%d\n",stddev1,stddev2);
+    printf("変更した");
 
 
 
